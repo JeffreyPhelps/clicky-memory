@@ -1,0 +1,13 @@
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+a {
+    color: darkblue;
+    font-weight: bold;
+}

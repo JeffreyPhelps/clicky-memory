@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Black Bishop",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Chess_bdt60.png"
+  },
+  {
+    "id": 2,
+    "name": "White Bishop",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Chess_blt60.png"
+  },
+  {
+    "id": 3,
+    "name": "Black Queen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Chess_kdt60.png"
+  },
+  {
+    "id": 4,
+    "name": "White Queen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Chess_klt60.png"
+  },
+  {
+    "id": 5,
+    "name": "Black Knight",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chess_ndt60.png"
+  },
+  {
+    "id": 6,
+    "name": "White Knight",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chess_nlt60.png"
+  },
+  {
+    "id": 7,
+    "name": "Black Pawn",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Chess_pdt60.png"
+  },
+  {
+    "id": 8,
+    "name": "White Pawn",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chess_plt60.png"
+  },
+  {
+    "id": 9,
+    "name": "Black King",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chess_qdt60.png"
+  },
+  {
+    "id": 10,
+    "name": "White King",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chess_qlt60.png"
+  },
+  {
+    "id": 11,
+    "name": "Black Rook",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Chess_rdt60.png"
+  },
+  {
+    "id": 12,
+    "name": "White Rook",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chess_rlt60.png"
+  }
+]
